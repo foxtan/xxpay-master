@@ -33,5 +33,8 @@ public class Constant {
     
     // Fox 第一次修改代码，测试git
     public static final String FOX_GIT_TEST = "Hello Git！";
+    
+    // 继续修改
+    // 测试 public static 
 
 }

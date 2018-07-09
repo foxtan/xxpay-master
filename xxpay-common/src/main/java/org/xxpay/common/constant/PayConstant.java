@@ -108,5 +108,6 @@ public class PayConstant {
 	public static final String NOTIFY_BUSI_PAY = "NOTIFY_VV_PAY_RES";
 	public static final String NOTIFY_BUSI_TRANS = "NOTIFY_VV_TRANS_RES";
 	
-	// Test
+	// Test 12
+	public static final String NOTIFY_BUSI_TRANS1 = "NOTIFY_VV_TRANS_RES";
 }
