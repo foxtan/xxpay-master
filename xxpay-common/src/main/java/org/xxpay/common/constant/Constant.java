@@ -30,5 +30,8 @@ public class Constant {
 
     // 服务端返回map中业务数据结果对应的key名称
     public static final String BIZ_RESULT_KEY = "bizResult";
+    
+    // Fox 第一次修改代码，测试git
+    public static final String FOX_GIT_TEST = "Hello Git！";
 
 }
